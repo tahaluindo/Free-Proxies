@@ -31,7 +31,7 @@ jobs:
         run: |
           git config --local user.email 'github-actions[bot]@users.noreply.github.com'
           git config --local user.name 'github-actions[bot]'
-          git remote set-url origin 'https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/saschazesiger/Free-Proxies.git'
+          git remote set-url origin 'https://x-access-token:${{ secrets.GIT_Hub }}@github.com/tahaluindo/Free-Proxies.git'
           git add 'proxies/'
           git add 'README.md'
           git commit -am "Updated Proxies"
