@@ -2,12 +2,12 @@
 
 ## 🚀 Contains Proxies of over 50 Providers and is updated regularely
 
-[![Refresh](https://github.com/tahaluindo/Free-Proxies/actions/workflows/update.yml/badge.svg)](https://github.com/tahaluindo/Free-Proxies/actions/workflows/update.yml)
-[![Commits](https://img.shields.io/github/last-commit/tahaluindo/Free-Proxies?style=flat&logo=github)](https://github.com/tahaluindo/Free-Proxies/commits/master)
-[![Commits](https://img.shields.io/github/commit-activity/w/tahaluindo/Free-Proxies?style=flat&logo=github)](https://github.com/tahaluindo/Free-Proxies/commits/master)
-[![Issues](https://img.shields.io/github/issues/tahaluindo/Free-Proxies?style=flat&logo=github)](https://github.com/tahaluindo/Free-Proxies/issues)
-[![License](https://img.shields.io/github/license/tahaluindo/Free-Proxies?style=flat&logo=github)](https://github.com/tahaluindo/Free-Proxies/blob/master/LICENSE)
-[![Stargazers](https://img.shields.io/github/stars/tahaluindo/Free-Proxies?style=flat&logo=github)](https://github.com/tahaluindo/Free-Proxies/stargazers)
+[![Refresh](https://github.com/saschazesiger/Free-Proxies/actions/workflows/update.yml/badge.svg)](https://github.com/saschazesiger/Free-Proxies/actions/workflows/update.yml)
+[![Commits](https://img.shields.io/github/last-commit/saschazesiger/Free-Proxies?style=flat&logo=github)](https://github.com/saschazesiger/Free-Proxies/commits/master)
+[![Commits](https://img.shields.io/github/commit-activity/w/saschazesiger/Free-Proxies?style=flat&logo=github)](https://github.com/saschazesiger/Free-Proxies/commits/master)
+[![Issues](https://img.shields.io/github/issues/saschazesiger/Free-Proxies?style=flat&logo=github)](https://github.com/saschazesiger/Free-Proxies/issues)
+[![License](https://img.shields.io/github/license/saschazesiger/Free-Proxies?style=flat&logo=github)](https://github.com/saschazesiger/Free-Proxies/blob/master/LICENSE)
+[![Stargazers](https://img.shields.io/github/stars/saschazesiger/Free-Proxies?style=flat&logo=github)](https://github.com/saschazesiger/Free-Proxies/stargazers)
 
 ## 📋 Description
 
@@ -21,15 +21,15 @@ Update Frequency: ```Every 30 minutes```
 
 Type | Number | Link | File
 --- | --- | --- | ---
-All available proxies | ```50977``` | [GitHub](https://github.com/tahaluindo/Free-Proxies/blob/master/proxies/raw.txt) | [RAW](https://raw.githubusercontent.com/tahaluindo/Free-Proxies/master/proxies/raw.txt)
-Unique Proxies | ```16531``` | [GitHub](https://github.com/tahaluindo/Free-Proxies/blob/master/proxies/all.txt) | [RAW](https://raw.githubusercontent.com/tahaluindo/Free-Proxies/master/proxies/all.txt)
-New* | ```15462``` | [GitHub](https://github.com/tahaluindo/Free-Proxies/blob/master/proxies/new.txt) | [RAW](https://raw.githubusercontent.com/tahaluindo/Free-Proxies/master/proxies/new.txt) 
-Premium** | ```407``` | [GitHub](https://github.com/tahaluindo/Free-Proxies/blob/master/proxies/premium.txt) | [RAW](https://raw.githubusercontent.com/tahaluindo/Free-Proxies/master/proxies/premium.txt)
-**Working (CSV)** | ```1686``` | [GitHub](https://github.com/tahaluindo/Free-Proxies/blob/master/proxies/working.csv) | [RAW](https://raw.githubusercontent.com/tahaluindo/Free-Proxies/master/proxies/working.csv)
-**Working (TXT)** | ```1686``` | [GitHub](https://github.com/tahaluindo/Free-Proxies/blob/master/proxies/working.txt) | [RAW](https://raw.githubusercontent.com/tahaluindo/Free-Proxies/master/proxies/working.txt)
-HTTP/HTTPS | ```973``` | [GitHub](https://github.com/tahaluindo/Free-Proxies/blob/master/proxies/http.txt) | [RAW](https://raw.githubusercontent.com/tahaluindo/Free-Proxies/master/proxies/http.txt)
-SOCKS4 | ```516``` | [GitHub](https://github.com/tahaluindo/Free-Proxies/blob/master/proxies/socks4.txt) | [RAW](https://raw.githubusercontent.com/tahaluindo/Free-Proxies/master/proxies/socks4.txt)
-SOCKS5 | ```197``` | [GitHub](https://github.com/tahaluindo/Free-Proxies/blob/master/proxies/socks5.txt) | [RAW](https://raw.githubusercontent.com/tahaluindo/Free-Proxies/master/proxies/socks5.txt) |
+All available proxies | ```52567``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/raw.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/raw.txt)
+Unique Proxies | ```16645``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/all.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/all.txt)
+New* | ```15304``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/new.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/new.txt) 
+Premium** | ```583``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/premium.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/premium.txt)
+**Working (CSV)** | ```1839``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/working.csv) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/working.csv)
+**Working (TXT)** | ```1839``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/working.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/working.txt)
+HTTP/HTTPS | ```1154``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/http.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/http.txt)
+SOCKS4 | ```527``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/socks4.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/socks4.txt)
+SOCKS5 | ```158``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/socks5.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/socks5.txt) |
 
 **proxy was not in previous workflow*\
 ***continuously online for at least 2 workflows (1 hour)*
@@ -40,8 +40,8 @@ SOCKS5 | ```197``` | [GitHub](https://github.com/tahaluindo/Free-Proxies/blob/ma
 
 Type | Number | Link | File
 --- | --- | --- | ---
-Filtered* | ```156``` | [GitHub](https://github.com/tahaluindo/Free-Proxies/blob/master/proxies/excluded.csv) | [RAW](https://raw.githubusercontent.com/tahaluindo/Free-Proxies/master/proxies/excluded.csv)
-Misconfigured** | ```224``` | [GitHub](https://github.com/tahaluindo/Free-Proxies/blob/master/proxies/misconfigured.csv) | [RAW](https://raw.githubusercontent.com/tahaluindo/Free-Proxies/master/proxies/misconfigured.csv) |
+Filtered* | ```159``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/excluded.csv) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/excluded.csv)
+Misconfigured** | ```238``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/misconfigured.csv) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/misconfigured.csv) |
 
 **The proxy returned modified HTML. This can be ads, maleware etc.* \
 ***Proxy returned a wrong HTTP Status Code*
@@ -52,11 +52,11 @@ Misconfigured** | ```224``` | [GitHub](https://github.com/tahaluindo/Free-Proxie
 
 Speed | Number | Link | File
 --- | --- | --- | ---
-Ultra Fast (<0.5s Ping) | ```144``` | [GitHub](https://github.com/tahaluindo/Free-Proxies/blob/master/proxies/ultrafast.txt) | [RAW](https://raw.githubusercontent.com/tahaluindo/Free-Proxies/master/proxies/ultrafast.txt)
-Fast (<1s Ping) | ```146``` | [GitHub](https://github.com/tahaluindo/Free-Proxies/blob/master/proxies/fast.txt) | [RAW](https://raw.githubusercontent.com/tahaluindo/Free-Proxies/master/proxies/fast.txt)
-Medium (<3s Ping) | ```309``` | [GitHub](https://github.com/tahaluindo/Free-Proxies/blob/master/proxies/medium.txt) | [RAW](https://raw.githubusercontent.com/tahaluindo/Free-Proxies/master/proxies/medium.txt)
-Slow (<7s Ping) | ```321``` | [GitHub](https://github.com/tahaluindo/Free-Proxies/blob/master/proxies/slow.txt) | [RAW](https://raw.githubusercontent.com/tahaluindo/Free-Proxies/master/proxies/slow.txt)
-Ultra Slow (7s+ Ping) | ```766``` | [GitHub](https://github.com/tahaluindo/Free-Proxies/blob/master/proxies/ultraslow.txt) | [RAW](https://raw.githubusercontent.com/tahaluindo/Free-Proxies/master/proxies/ultraslow.txt)
+Ultra Fast (<0.5s Ping) | ```120``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/ultrafast.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/ultrafast.txt)
+Fast (<1s Ping) | ```156``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/fast.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/fast.txt)
+Medium (<3s Ping) | ```278``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/medium.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/medium.txt)
+Slow (<7s Ping) | ```344``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/slow.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/slow.txt)
+Ultra Slow (7s+ Ping) | ```941``` | [GitHub](https://github.com/saschazesiger/Free-Proxies/blob/master/proxies/ultraslow.txt) | [RAW](https://raw.githubusercontent.com/saschazesiger/Free-Proxies/master/proxies/ultraslow.txt)
 
 ------------------------------------------------------------------
 
@@ -64,42 +64,42 @@ Ultra Slow (7s+ Ping) | ```766``` | [GitHub](https://github.com/tahaluindo/Free-
 | Website  | Number of Proxies fetched |
 | ------------- |:-------------:|
 |advanced.name|0
-api.openproxylist.xyz|10956
-api.proxyscrape.com|1676
+api.openproxylist.xyz|10883
+api.proxyscrape.com|1785
 cyber-hub.pw|0
 free-proxy-list.com|250
 free-proxy-list.net|1200
 freeproxy.world|1300
 github-RX4096|738
-github-ShiftyTR|1109
-github-TheSpeedX|6157
-github-UptimerBot|609
+github-ShiftyTR|1120
+github-TheSpeedX|5945
+github-UptimerBot|669
 github-almroot|38
 github-aslisk|3550
 github-clarketm|400
-github-hendrikbgr|385
-github-hookzof|526
-github-jetkai|2151
-github-manuGMG|291
-github-mertguvencli|271
-github-mmpx12|3999
-github-monosans|1212
+github-hendrikbgr|430
+github-hookzof|570
+github-jetkai|3620
+github-manuGMG|293
+github-mertguvencli|281
+github-mmpx12|4008
+github-monosans|1261
 github-proxy4parsing|4761
-github-rdavydov|1246
+github-rdavydov|1298
 github-roosterkid|1573
 github-sunny9577|907
 hidemy.name|1600
 list.proxylistplus.com|298
 netzwelt.de|60
 openproxy.space|0
-premiumproxy.net|10
+premiumproxy.net|9
 proxy-list.download|2096
 proxydb.net|60
-proxyscan.io|1108
+proxyscan.io|1124
 smallseotools.com|0
 us-proxy.org|400
 
 
 ## 🔗 Links
 
-The project gets updated using [this repository](https://github.com/tahaluindo/Proxy-Grabber-and-Checker) and checks proxies with [this](https://github.com/tahaluindo/Proxy-Test-Website).
+The project gets updated using [this repository](https://github.com/saschazesiger/Proxy-Grabber-and-Checker) and checks proxies with [this](https://github.com/saschazesiger/Proxy-Test-Website).
